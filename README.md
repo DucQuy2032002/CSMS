@@ -1,6 +1,6 @@
 # 📃 QUẢN LÝ QUÁN CAFE
 
-<h1 align="center">Đề tài kết thúc môn học do ThS.Lương Trần Ngọc Khiết phụ trách</h1> 
+<h1 align="center">Đề tài báo cáo cuối kì do ThS.Lương Trần Hy Hiến phụ trách</h1> 
 
 <p align="center"><Đề tài nhóm: Xây dụng chương trình quản lý quán Cafe></p>
 
