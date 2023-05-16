@@ -8,9 +8,6 @@
 
 <!-- Screenshots -->
 
-## ✨ Links Demo
-  
-- [Demo](" <Demo> Demo")
 ## :gear: Built With
 
 -C#
