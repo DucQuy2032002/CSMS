@@ -1,0 +1,28 @@
+C:\Users\admin\OneDrive\Máy tính\folder\Đồ Án\Đồ Án\Đồ Án\bin\Debug\net5.0-windows\Đồ Án.exe
+C:\Users\admin\OneDrive\Máy tính\folder\Đồ Án\Đồ Án\Đồ Án\bin\Debug\net5.0-windows\Đồ Án.deps.json
+C:\Users\admin\OneDrive\Máy tính\folder\Đồ Án\Đồ Án\Đồ Án\bin\Debug\net5.0-windows\Đồ Án.runtimeconfig.json
+C:\Users\admin\OneDrive\Máy tính\folder\Đồ Án\Đồ Án\Đồ Án\bin\Debug\net5.0-windows\Đồ Án.runtimeconfig.dev.json
+C:\Users\admin\OneDrive\Máy tính\folder\Đồ Án\Đồ Án\Đồ Án\bin\Debug\net5.0-windows\Đồ Án.dll
+C:\Users\admin\OneDrive\Máy tính\folder\Đồ Án\Đồ Án\Đồ Án\bin\Debug\net5.0-windows\ref\Đồ Án.dll
+C:\Users\admin\OneDrive\Máy tính\folder\Đồ Án\Đồ Án\Đồ Án\bin\Debug\net5.0-windows\Đồ Án.pdb
+C:\Users\admin\OneDrive\Máy tính\folder\Đồ Án\Đồ Án\Đồ Án\obj\Debug\net5.0-windows\Đồ Án.csproj.AssemblyReference.cache
+C:\Users\admin\OneDrive\Máy tính\folder\Đồ Án\Đồ Án\Đồ Án\obj\Debug\net5.0-windows\Đồ_Án.fLogin.resources
+C:\Users\admin\OneDrive\Máy tính\folder\Đồ Án\Đồ Án\Đồ Án\obj\Debug\net5.0-windows\Đồ Án.csproj.GenerateResource.cache
+C:\Users\admin\OneDrive\Máy tính\folder\Đồ Án\Đồ Án\Đồ Án\obj\Debug\net5.0-windows\Đồ Án.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\OneDrive\Máy tính\folder\Đồ Án\Đồ Án\Đồ Án\obj\Debug\net5.0-windows\Đồ Án.AssemblyInfoInputs.cache
+C:\Users\admin\OneDrive\Máy tính\folder\Đồ Án\Đồ Án\Đồ Án\obj\Debug\net5.0-windows\Đồ Án.AssemblyInfo.cs
+C:\Users\admin\OneDrive\Máy tính\folder\Đồ Án\Đồ Án\Đồ Án\obj\Debug\net5.0-windows\Đồ Án.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive\Máy tính\folder\Đồ Án\Đồ Án\Đồ Án\obj\Debug\net5.0-windows\Đồ Án.dll
+C:\Users\admin\OneDrive\Máy tính\folder\Đồ Án\Đồ Án\Đồ Án\obj\Debug\net5.0-windows\ref\Đồ Án.dll
+C:\Users\admin\OneDrive\Máy tính\folder\Đồ Án\Đồ Án\Đồ Án\obj\Debug\net5.0-windows\Đồ Án.pdb
+C:\Users\admin\OneDrive\Máy tính\folder\Đồ Án\Đồ Án\Đồ Án\obj\Debug\net5.0-windows\Đồ Án.genruntimeconfig.cache
+C:\Users\admin\OneDrive\Máy tính\folder\Đồ Án\Đồ Án\Đồ Án\obj\Debug\net5.0-windows\Đồ_Án.fTableManager.resources
+C:\Users\admin\OneDrive\Máy tính\folder\Đồ Án\Đồ Án\Đồ Án\obj\Debug\net5.0-windows\Đồ_Án.fAccountProfile.resources
+C:\Users\admin\OneDrive\Máy tính\folder\Đồ Án\Đồ Án\Đồ Án\obj\Debug\net5.0-windows\Đồ_Án.fAdmin.resources
+C:\Users\admin\OneDrive\Máy tính\folder\Đồ Án\Đồ Án\Đồ Án\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\admin\OneDrive\Máy tính\folder\Đồ Án\Đồ Án\Đồ Án\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\admin\OneDrive\Máy tính\folder\Đồ Án\Đồ Án\Đồ Án\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\admin\OneDrive\Máy tính\folder\Đồ Án\Đồ Án\Đồ Án\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\admin\OneDrive\Máy tính\folder\Đồ Án\Đồ Án\Đồ Án\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\admin\OneDrive\Máy tính\folder\Đồ Án\Đồ Án\Đồ Án\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\admin\OneDrive\Máy tính\folder\Đồ Án\Đồ Án\Đồ Án\obj\Debug\net5.0-windows\Đồ Án.csproj.CopyComplete
